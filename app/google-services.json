@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "792568847456",
-    "firebase_url": "https://cs4261youchat.firebaseio.com",
-    "project_id": "cs4261youchat",
-    "storage_bucket": "cs4261youchat.appspot.com"
+    "project_number": "1064678922860",
+    "firebase_url": "https://cs4261youchat-micky.firebaseio.com",
+    "project_id": "cs4261youchat-micky",
+    "storage_bucket": "cs4261youchat-micky.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:792568847456:android:ef40893346525f51",
+        "mobilesdk_app_id": "1:1064678922860:android:ef40893346525f51",
         "android_client_info": {
           "package_name": "com.example.hughiscool.youchat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "792568847456-2440nk7v49g2orgvljk9eqnsqrec7gng.apps.googleusercontent.com",
+          "client_id": "1064678922860-0ign9revfksl9njf4gifg7lb00ph7qlf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.hughiscool.youchat",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "792568847456-gpi46b7q59b6o9nolnlpjmbfr3jf1bje.apps.googleusercontent.com",
+          "client_id": "1064678922860-dmnj0pepobna1t6kpk8i2j22padus93a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD124qQOYRjzWV9mL17iz3s5jNs88yV4Ko"
+          "current_key": "AIzaSyBEpo-q5_RU9rO8sr4Or_jEsTuvCLWFHxQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "792568847456-gpi46b7q59b6o9nolnlpjmbfr3jf1bje.apps.googleusercontent.com",
+              "client_id": "1064678922860-dmnj0pepobna1t6kpk8i2j22padus93a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
